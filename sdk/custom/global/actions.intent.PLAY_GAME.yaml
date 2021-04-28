@@ -17,4 +17,5 @@ handler:
     - promptResponse:
         canvas:
           url: https://<PROJECT_ID>.web.app
+          enable_full_screen: true
 transitionToScene: Welcome
