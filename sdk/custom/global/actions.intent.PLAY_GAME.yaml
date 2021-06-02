@@ -18,4 +18,5 @@ handler:
         canvas:
           url: https://<PROJECT_ID>.web.app
           enable_full_screen: true
+          continue_tts_during_touch: true
 transitionToScene: Welcome
